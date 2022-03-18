@@ -1,0 +1,10 @@
+C:\Users\ILyaSHoy\source\repos\№1.6\bin\Debug\№1.6.exe.config
+C:\Users\ILyaSHoy\source\repos\№1.6\bin\Debug\№1.6.exe
+C:\Users\ILyaSHoy\source\repos\№1.6\bin\Debug\№1.6.pdb
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\№1.6.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\_1._6.Form1.resources
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\_1._6.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\№1.6.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\№1.6.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\№1.6.exe
+C:\Users\ILyaSHoy\source\repos\№1.6\obj\Debug\№1.6.pdb
